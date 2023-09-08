@@ -12,3 +12,4 @@ To make this code work you need to have a MySQL database with name "warehouse" a
  - id
 
 Then you need to check your connections with database so it is working properly. If needed make changes in "user" and "password" when getting connection.
+
