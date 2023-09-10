@@ -4,6 +4,8 @@ import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
 
+// Main window that's showing contents of the database and all the main functions 
+
 public class ReadData extends JFrame implements ActionListener  {
     JFrame readDataFrame;
     static JTable table;
